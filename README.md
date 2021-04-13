@@ -1,2 +1,2 @@
-# web1
-web1 study
+# web
+AI service - Friend, let's study
